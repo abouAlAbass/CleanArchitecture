@@ -1,0 +1,12 @@
+C:\private\CleanArchitecture\CleanArchitecture.Contracts\bin\Debug\net7.0\CleanArchitecture.Contracts.deps.json
+C:\private\CleanArchitecture\CleanArchitecture.Contracts\bin\Debug\net7.0\CleanArchitecture.Contracts.dll
+C:\private\CleanArchitecture\CleanArchitecture.Contracts\bin\Debug\net7.0\CleanArchitecture.Contracts.pdb
+C:\private\CleanArchitecture\CleanArchitecture.Contracts\obj\Debug\net7.0\CleanArchitecture.Contracts.csproj.AssemblyReference.cache
+C:\private\CleanArchitecture\CleanArchitecture.Contracts\obj\Debug\net7.0\CleanArchitecture.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\private\CleanArchitecture\CleanArchitecture.Contracts\obj\Debug\net7.0\CleanArchitecture.Contracts.AssemblyInfoInputs.cache
+C:\private\CleanArchitecture\CleanArchitecture.Contracts\obj\Debug\net7.0\CleanArchitecture.Contracts.AssemblyInfo.cs
+C:\private\CleanArchitecture\CleanArchitecture.Contracts\obj\Debug\net7.0\CleanArchitecture.Contracts.csproj.CoreCompileInputs.cache
+C:\private\CleanArchitecture\CleanArchitecture.Contracts\obj\Debug\net7.0\CleanArchitecture.Contracts.dll
+C:\private\CleanArchitecture\CleanArchitecture.Contracts\obj\Debug\net7.0\refint\CleanArchitecture.Contracts.dll
+C:\private\CleanArchitecture\CleanArchitecture.Contracts\obj\Debug\net7.0\CleanArchitecture.Contracts.pdb
+C:\private\CleanArchitecture\CleanArchitecture.Contracts\obj\Debug\net7.0\ref\CleanArchitecture.Contracts.dll
