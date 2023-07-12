@@ -5,17 +5,11 @@ C:\private\CleanArchitecture\CleanArchitecture.Api\bin\Debug\net7.0\CleanArchite
 C:\private\CleanArchitecture\CleanArchitecture.Api\bin\Debug\net7.0\CleanArchitecture.Api.runtimeconfig.json
 C:\private\CleanArchitecture\CleanArchitecture.Api\bin\Debug\net7.0\CleanArchitecture.Api.dll
 C:\private\CleanArchitecture\CleanArchitecture.Api\bin\Debug\net7.0\CleanArchitecture.Api.pdb
-C:\private\CleanArchitecture\CleanArchitecture.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-C:\private\CleanArchitecture\CleanArchitecture.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\private\CleanArchitecture\CleanArchitecture.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\private\CleanArchitecture\CleanArchitecture.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\private\CleanArchitecture\CleanArchitecture.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\private\CleanArchitecture\CleanArchitecture.Api\obj\Debug\net7.0\CleanArchitecture.Api.csproj.AssemblyReference.cache
 C:\private\CleanArchitecture\CleanArchitecture.Api\obj\Debug\net7.0\CleanArchitecture.Api.GeneratedMSBuildEditorConfig.editorconfig
 C:\private\CleanArchitecture\CleanArchitecture.Api\obj\Debug\net7.0\CleanArchitecture.Api.AssemblyInfoInputs.cache
 C:\private\CleanArchitecture\CleanArchitecture.Api\obj\Debug\net7.0\CleanArchitecture.Api.AssemblyInfo.cs
 C:\private\CleanArchitecture\CleanArchitecture.Api\obj\Debug\net7.0\CleanArchitecture.Api.csproj.CoreCompileInputs.cache
-C:\private\CleanArchitecture\CleanArchitecture.Api\obj\Debug\net7.0\CleanArchitecture.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\private\CleanArchitecture\CleanArchitecture.Api\obj\Debug\net7.0\CleanArchitecture.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\private\CleanArchitecture\CleanArchitecture.Api\obj\Debug\net7.0\staticwebassets\msbuild.CleanArchitecture.Api.Microsoft.AspNetCore.StaticWebAssets.props
 C:\private\CleanArchitecture\CleanArchitecture.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.CleanArchitecture.Api.props

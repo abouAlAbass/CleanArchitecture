@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Hje6BAXwdjtRyKtDgKaQgGzYTtcY1+z+g8l60IpbBtYCOU4pJ2a1IWipWxPW3+yT10kOsiJBbX9ntmTCWL+dIQ==",
+  "dgSpecHash": "ZnekGCVdrqLgTNmIOaLFUsTpp1wXYKfp8ynWyHeZHVfST7RTPN20Z/crXLauhlTv2qKLEGEsvho7GExD0sXwYQ==",
   "success": true,
   "projectFilePath": "C:\\private\\CleanArchitecture\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mfet001\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
